@@ -16,12 +16,14 @@ Compact and responsive design
 Smooth hover animations for buttons
 
 Usage
+-------
 
 Open index.html in any modern browser.
 
 Click buttons to perform calculations.
 
 Toggle Dark Mode using the button in the header.
+
 
 File Structure
 -----------------
