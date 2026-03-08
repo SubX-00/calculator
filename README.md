@@ -25,12 +25,19 @@ Toggle Dark Mode using the button in the header.
 
 File Structure
 -----------------
+
+
+
 simple-calculator/
 │
 ├─ index.html       # Main layout
 ├─ style.css        # Styling for light & dark modes
 ├─ main.js          # Calculator logic
 └─ README.md        # Documentation
+
+
+
+
 
 Customization
 -------------
