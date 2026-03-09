@@ -1,9 +1,9 @@
-Simple Dark Mode Calculator
+#Simple Dark Mode Calculator
 ===========================
 
 A simple web-based calculator with Light/Dark mode. Designed to be compact, responsive, and easy to use.
 
-Features
+#Features
 ----------
 Basic arithmetic: +, -, X, /
 
@@ -26,7 +26,7 @@ Light mode
 ![image alt](https://github.com/SubX-00/calculator/blob/main/screenshot%20lightmode.png?raw=true
 )
 
-Usage
+#Usage
 -------
 
 Open index.html in any modern browser.
