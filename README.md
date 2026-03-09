@@ -15,6 +15,15 @@ Compact and responsive design
 
 Smooth hover animations for buttons
 
+#Screenshot
+-----------
+Dark mode
+![image alt]( https://github.com/SubX-00/calculator/blob/main/screenshot%20darkmode.png?raw=true)
+
+Light mode
+![image alt](https://github.com/SubX-00/calculator/blob/main/screenshot%20lightmode.png?raw=true
+)
+
 Usage
 -------
 
