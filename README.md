@@ -34,13 +34,3 @@ Open index.html in any modern browser.
 Click buttons to perform calculations.
 
 Toggle Dark Mode using the button in the header.
-
-
-
-
-Customization
--------------
-
-Change colors in style.css to adjust Light/Dark mode appearance.
-
-Adjust button sizes or screen style in CSS to your preference.
